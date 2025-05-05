@@ -1,0 +1,2 @@
+# guitar-LA
+Creacion de carrito de compras de un e-commerce, uso de custom hook, creacion de componente reutilizable con React, typescript para agregarle tipado estatico para mejorar la fiabilidad, mantenibilidad y experiencia de desarrollo y css convencional
